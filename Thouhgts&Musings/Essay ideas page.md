@@ -1,5 +1,7 @@
 [[Paradoxical nature of academia]]'s progressive façade versus its conservative gatekeeping practises
 
+mobile testing
+
 Investigation as to [[Why people don't question things]] and are able to accept as 'tradition' or 'the done thing'
 
 God of the bible is not who he says he is, he is a projection of the ego of men when justified and unchecked

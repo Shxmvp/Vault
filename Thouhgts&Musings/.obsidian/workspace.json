@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Index",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Essay ideas page.md",
+                "file": "Paradoxical nature of academia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Essay ideas page.md",
+                "file": "Paradoxical nature of academia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Essay ideas page.md"
+                "file": "Paradoxical nature of academia.md"
               }
             }
           }
@@ -160,12 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eac20b3d882588d",
+  "active": "b49359639b1b4b2c",
   "lastOpenFiles": [
+    "Essay ideas page.md",
     "Paradoxical nature of academia.md",
     "Vault",
     "git",
-    "Essay ideas page.md",
     "Why people don't question things.md"
   ]
 }

@@ -1,6 +1,7 @@
 [[Paradoxical nature of academia]]'s progressive façade versus its conservative gatekeeping practises
 
 mobile testing
+two
 
 Investigation as to [[Why people don't question things]] and are able to accept as 'tradition' or 'the done thing'
 

@@ -1,7 +1,8 @@
+---
+banner: "![[Pasted image 20240327190422.png]]"
+---
+[[How to write an essay]]
 [[Paradoxical nature of academia]]'s progressive façade versus its conservative gatekeeping practises
-
-mobile testing
-two
 
 Investigation as to [[Why people don't question things]] and are able to accept as 'tradition' or 'the done thing'
 
@@ -31,4 +32,5 @@ They want you to be miserable to their dopamine tricks work even better so they 
 
 Teachers don't foster a good learning environment because they often think they know it all and become embarrassed and start projecting when they don't, carried away by their power trips to assauge the feelings of powerlessness in their own lives
 
+systems we want to overcome are bigger than our lives, mentality wise in order to organise we must transcend mortality and plan for centuries, acknowledge that your soul is immortal and abandon the myopic view of life that the matrix enforces understand that a human can never in any form exist isolation, physically or conceptually 
 #Index

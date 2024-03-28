@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-minimal-settings",
+  "templater-obsidian",
+  "color-palette",
+  "colored-text",
+  "obsidian-banners"
 ]

@@ -1,3 +1,11 @@
 {
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "propertiesInDocument": "hidden",
+  "foldHeading": false,
+  "foldIndent": false,
+  "useMarkdownLinks": true,
+  "readableLineLength": false,
+  "promptDelete": false,
+  "trashOption": "local"
 }

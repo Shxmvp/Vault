@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "#cdb07e",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian gruvbox",
+  "textFontFamily": "Century Gothic",
+  "interfaceFontFamily": "Cascadia Mono"
 }
